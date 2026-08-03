@@ -8,6 +8,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "CuuTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/apk/tachiyomi-vi.cuutruyen-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/icons/src/vi/cuutruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/FiorenMas/mihon-extensions@repo/jar/tachiyomi-vi.cuutruyen-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4989357807406366033",
+            "name": "CuuTruyen",
+            "language": "vi",
+            "homeUrl": "https://cuutruyen.net"
+          }
+        ]
+      },
+      {
         "name": "SpringBlossoms",
         "packageName": "eu.kanade.tachiyomi.extension.vi.springblossoms",
         "resources": {
