@@ -1,10 +1,9 @@
 {
-  "name": "Keiyoushi",
-  "badgeLabel": "KEI",
-  "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "name": "fiorenmas",
+  "badgeLabel": "FIOREN",
+  "signingKey": "9e823ce0dddf71992895f3d276922dcb7f7b5e021b3dcc68a7c98dffa6b1e462",
   "contact": {
-    "website": "https://keiyoushi.github.io",
-    "discord": "https://discord.gg/3FbCpdKbdY"
+    "website": "https://github.com/FiorenMas/mihon-extensions"
   },
   "extensionList": {
     "extensions": [
@@ -31305,6 +31304,27 @@
             "name": "SoaiCaComic",
             "language": "vi",
             "homeUrl": "https://soaicacomic2.top"
+          }
+        ]
+      },
+      {
+        "name": "SpringBlossoms",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.springblossoms",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/apk/tachiyomi-vi.springblossoms-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/icons/src/vi/springblossoms/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/FiorenMas/mihon-extensions@repo/jar/tachiyomi-vi.springblossoms-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "9205557868651245634",
+            "name": "SpringBlossoms",
+            "language": "vi",
+            "homeUrl": "https://owibusb.com"
           }
         ]
       },
