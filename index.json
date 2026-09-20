@@ -11,13 +11,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/fiorenmas/mihon-extensions/releases/download/35bad72/tachiyomi-vi.moetruyen-v1.6.40.apk",
+          "apkUrl": "https://github.com/fiorenmas/mihon-extensions/releases/download/f9625f2/tachiyomi-vi.moetruyen-v1.6.41.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/fiorenmas/mihon-extension-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/fiorenmas/mihon-extensions/releases/download/35bad72/tachiyomi-vi.moetruyen-v1.6.40.jar"
+          "jarUrl": "https://github.com/fiorenmas/mihon-extensions/releases/download/f9625f2/tachiyomi-vi.moetruyen-v1.6.41.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106040",
-        "versionName": "1.6.40",
+        "versionCode": "106041",
+        "versionName": "1.6.41",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
