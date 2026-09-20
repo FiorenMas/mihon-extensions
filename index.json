@@ -8,44 +8,27 @@
   "extensionList": {
     "extensions": [
       {
-        "name": "CuuTruyen",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
+        "name": "MoeTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/apk/tachiyomi-vi.cuutruyen-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/icons/src/vi/cuutruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/FiorenMas/mihon-extensions@repo/jar/tachiyomi-vi.cuutruyen-v1.6.1.jar"
+          "apkUrl": "https://github.com/fiorenmas/mihon-extensions/releases/download/35bad72/tachiyomi-vi.moetruyen-v1.6.40.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/fiorenmas/mihon-extension-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/fiorenmas/mihon-extensions/releases/download/35bad72/tachiyomi-vi.moetruyen-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
+        "versionCode": "106040",
+        "versionName": "1.6.40",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4989357807406366033",
-            "name": "CuuTruyen",
+            "id": "8689080191405841403",
+            "name": "MoeTruyen",
             "language": "vi",
-            "homeUrl": "https://cuutruyen.net"
-          }
-        ]
-      },
-      {
-        "name": "SpringBlossoms",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.springblossoms",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/apk/tachiyomi-vi.springblossoms-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FiorenMas/mihon-extensions@repo/icons/src/vi/springblossoms/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/FiorenMas/mihon-extensions@repo/jar/tachiyomi-vi.springblossoms-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "9205557868651245634",
-            "name": "SpringBlossoms",
-            "language": "vi",
-            "homeUrl": "https://owibusb.com"
+            "homeUrl": "https://moetruyen.net",
+            "mirrorUrls": [
+              "https://moetruyen.net",
+              "https://truyen.moe"
+            ]
           }
         ]
       }
