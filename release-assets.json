@@ -1,12 +1,12 @@
 {
   "eu.kanade.tachiyomi.extension.vi.moetruyen": {
     "apk": {
-      "name": "tachiyomi-vi.moetruyen-v1.6.43.apk",
-      "sha256": "e86d1ca43374c244d10b196f3476c46d7a4f988fbd9935e86061a61bae9ba7d3"
+      "name": "tachiyomi-vi.moetruyen-v1.6.44.apk",
+      "sha256": "1cb48bd5c75f264662163d9ee3f93dbd12be0d1ca9a3957cdcf931a4d0fe17ff"
     },
     "jar": {
-      "name": "tachiyomi-vi.moetruyen-v1.6.43.jar",
-      "sha256": "ff1e7e1d51ddabf52c24d064a04ed3ce255b9918b3d3d3fa9d9808b47f5fd3e8"
+      "name": "tachiyomi-vi.moetruyen-v1.6.44.jar",
+      "sha256": "e57979526b13dd7037a0040da512329767dcd935a5df86adba4a71195a3f3a51"
     }
   }
 }
